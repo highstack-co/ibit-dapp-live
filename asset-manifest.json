@@ -2,8 +2,8 @@
   "files": {
     "static/js/0.f6fc7931.chunk.js": "https://dapp.infibit.org/static/js/0.f6fc7931.chunk.js",
     "static/js/0.f6fc7931.chunk.js.map": "https://dapp.infibit.org/static/js/0.f6fc7931.chunk.js.map",
-    "main.js": "https://dapp.infibit.org/static/js/main.392784d6.chunk.js",
-    "main.js.map": "https://dapp.infibit.org/static/js/main.392784d6.chunk.js.map",
+    "main.js": "https://dapp.infibit.org/static/js/main.14ca34b0.chunk.js",
+    "main.js.map": "https://dapp.infibit.org/static/js/main.14ca34b0.chunk.js.map",
     "runtime-main.js": "https://dapp.infibit.org/static/js/runtime-main.33d65482.js",
     "runtime-main.js.map": "https://dapp.infibit.org/static/js/runtime-main.33d65482.js.map",
     "static/js/3.0d248966.chunk.js": "https://dapp.infibit.org/static/js/3.0d248966.chunk.js",
@@ -47,6 +47,6 @@
   "entrypoints": [
     "static/js/runtime-main.33d65482.js",
     "static/js/3.0d248966.chunk.js",
-    "static/js/main.392784d6.chunk.js"
+    "static/js/main.14ca34b0.chunk.js"
   ]
 }
