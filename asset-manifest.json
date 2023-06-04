@@ -2,10 +2,10 @@
   "files": {
     "static/js/0.f6fc7931.chunk.js": "https://dapp.infibit.org/static/js/0.f6fc7931.chunk.js",
     "static/js/0.f6fc7931.chunk.js.map": "https://dapp.infibit.org/static/js/0.f6fc7931.chunk.js.map",
-    "main.js": "https://dapp.infibit.org/static/js/main.82442f30.chunk.js",
-    "main.js.map": "https://dapp.infibit.org/static/js/main.82442f30.chunk.js.map",
-    "runtime-main.js": "https://dapp.infibit.org/static/js/runtime-main.4ece12bf.js",
-    "runtime-main.js.map": "https://dapp.infibit.org/static/js/runtime-main.4ece12bf.js.map",
+    "main.js": "https://dapp.infibit.org/static/js/main.a019e5fd.chunk.js",
+    "main.js.map": "https://dapp.infibit.org/static/js/main.a019e5fd.chunk.js.map",
+    "runtime-main.js": "https://dapp.infibit.org/static/js/runtime-main.6cc5642f.js",
+    "runtime-main.js.map": "https://dapp.infibit.org/static/js/runtime-main.6cc5642f.js.map",
     "static/js/3.f85d63de.chunk.js": "https://dapp.infibit.org/static/js/3.f85d63de.chunk.js",
     "static/js/3.f85d63de.chunk.js.map": "https://dapp.infibit.org/static/js/3.f85d63de.chunk.js.map",
     "static/js/4.8cc015dc.chunk.js": "https://dapp.infibit.org/static/js/4.8cc015dc.chunk.js",
@@ -16,8 +16,8 @@
     "static/js/6.41a40dde.chunk.js.map": "https://dapp.infibit.org/static/js/6.41a40dde.chunk.js.map",
     "static/js/7.22dc1864.chunk.js": "https://dapp.infibit.org/static/js/7.22dc1864.chunk.js",
     "static/js/7.22dc1864.chunk.js.map": "https://dapp.infibit.org/static/js/7.22dc1864.chunk.js.map",
-    "static/js/8.29975ff3.chunk.js": "https://dapp.infibit.org/static/js/8.29975ff3.chunk.js",
-    "static/js/8.29975ff3.chunk.js.map": "https://dapp.infibit.org/static/js/8.29975ff3.chunk.js.map",
+    "static/js/8.399c9114.chunk.js": "https://dapp.infibit.org/static/js/8.399c9114.chunk.js",
+    "static/js/8.399c9114.chunk.js.map": "https://dapp.infibit.org/static/js/8.399c9114.chunk.js.map",
     "static/js/9.d5c39c29.chunk.js": "https://dapp.infibit.org/static/js/9.d5c39c29.chunk.js",
     "static/js/9.d5c39c29.chunk.js.map": "https://dapp.infibit.org/static/js/9.d5c39c29.chunk.js.map",
     "static/js/10.b9928f7d.chunk.js": "https://dapp.infibit.org/static/js/10.b9928f7d.chunk.js",
@@ -45,8 +45,8 @@
     "static/media/x.33076876.svg": "https://dapp.infibit.org/static/media/x.33076876.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.4ece12bf.js",
+    "static/js/runtime-main.6cc5642f.js",
     "static/js/3.f85d63de.chunk.js",
-    "static/js/main.82442f30.chunk.js"
+    "static/js/main.a019e5fd.chunk.js"
   ]
 }
